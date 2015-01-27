@@ -6,7 +6,8 @@
         <title>Fogadom</title>
         <style>
             body{
-                background-color: pink;
+                background-color: red;
+                color: blue;
             }
             
         </style>
@@ -18,3 +19,4 @@
 </html>
 asd
 asd
+Ádámnak is megy
