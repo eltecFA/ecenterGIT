@@ -17,6 +17,17 @@
         Enyimé
     </body>
 </html>
+
+<?php
+
+function drink(){
+    $drinks = array("soda", "coffee", "beer", "juice");
+    $drinkit = array_rand($drinks,1);
+    
+    return $drinks[$drinkit[0]];
+}
+
+?>
 asd
 asd
 Ádámnak is megy
