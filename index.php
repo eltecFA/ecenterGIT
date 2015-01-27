@@ -6,9 +6,5 @@
         <title></title>
     </head>
     <body>
-        <?php
-        //Teszt
-        // put your code here
-        ?>
     </body>
 </html>
