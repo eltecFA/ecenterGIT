@@ -3,12 +3,9 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>Fogadom</title>
     </head>
+    Terefere
     <body>
-        <?php
-        //Teszt
-        // put your code here
-        ?>
     </body>
 </html>
