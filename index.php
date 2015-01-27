@@ -7,6 +7,6 @@
     </head>
     Terefere
     <body>
-        Enyim
+        Enyimé
     </body>
 </html>
