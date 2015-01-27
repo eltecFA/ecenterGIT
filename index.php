@@ -4,6 +4,12 @@
     <head>
         <meta charset="UTF-8">
         <title>Fogadom</title>
+        <style>
+            body{
+                background-color: pink;
+            }
+            
+        </style>
     </head>
     Terefere
     <body>
